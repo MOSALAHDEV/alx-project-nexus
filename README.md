@@ -122,9 +122,3 @@ This repository showcases my understanding and application of **backend engineer
 
 ### GitHub Repository:  
 [**alx-project-nexus**](https://github.com/MOSALAHDEV/alx-project-nexus.git)
-
----
-
-### ProDev Tip:  
-Remember to review your documentation for clarity, format consistency, and make sure all sections are well-structured. Good documentation can set you apart from others and help others learn from your work!
-
